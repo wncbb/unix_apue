@@ -2,6 +2,7 @@
 *.o
 *.a
 *.so
+*.out
 
 # IntelliJ auto generated files
 .idea
